@@ -28,3 +28,10 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+/.idea
+vendor/*
+idea/*
+.idea/*
+idea
+/idea
